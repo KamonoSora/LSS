@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="38.449429"
+   height="60"
+   version="1.1"
+   viewBox="0 0 10.172832 15.874593"
+   id="svg8"
+   sodipodi:docname="arrow.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="13.16196"
+     inkscape:cx="6.1240304"
+     inkscape:cy="11.007001"
+     inkscape:window-x="1912"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="matrix(0.29576844,0,0,0.29576844,-18.710751,-57.905142)"
+     id="g6">
+    <path
+       transform="scale(0.26458)"
+       d="m 279.1,754.96 v 107.86 h -25 l 50,65 50,-65 h -25 V 754.96 Z"
+       style="opacity:0.98999999;fill:#ffffff;stroke:#0b007c;stroke-width:30;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="path4"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
